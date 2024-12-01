@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <?php
 /*
 * Boxmoe.com template file.
@@ -27,3 +30,5 @@ endwhile; ?>
         </div>
       </section>
 <?php get_footer(); ?>
+</body>
+</html>
